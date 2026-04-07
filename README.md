@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm MD.MAHFUZUL HAQUE</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Md+Mahfujul+Haque;Frontend+Developer;React+Learner" />
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Programming hero complete web development bootcamp**
