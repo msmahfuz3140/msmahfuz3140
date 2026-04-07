@@ -1,6 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+MAHFUZUL+HAQUE;Frontend+Developer;" />
 </h1>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Programming hero complete web development bootcamp**
