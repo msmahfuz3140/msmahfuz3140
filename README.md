@@ -13,7 +13,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 <h2 aligh="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+MAHFUZUL+HAQUE;Frontend+Developer;" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=A+passionate+frontend+developer;from+Bangladesh;" /> 
 </h2>
 
 <h3 align="left">Connect with me:</h3>
