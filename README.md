@@ -1,9 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm MD MAHFUZUL HAQUE  
-### 🚀 MERN Stack Developer | React & Next.js Enthusiast
+# Hi, I'm MD MAHFUZUL HAQUE 👋  
+### MERN Stack Developer | React & Next.js Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;MERN+Stack+Learner;React+%26+Next.js+Developer;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;MERN+Stack+Learner;Clean+Code+Advocate" />
+
+---
 
 </div>
 
@@ -11,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 I love building modern web applications  
-- ⚡ Focused on React, Next.js & MERN Stack  
-- 🚀 Currently improving my full-stack development skills  
-- 🎯 Goal: Become a professional software engineer  
-- 📍 From Bangladesh 🇧🇩  
+- 🚀 Passionate about building scalable web applications  
+- ⚡ Focused on React, Next.js & modern JavaScript ecosystem  
+- 🧠 Always learning system design & backend logic  
+- 🎯 Goal: Become a professional Full Stack Engineer  
+- 🌍 Based in Bangladesh  
 
 ---
 
@@ -23,53 +25,43 @@
 
 <div align="center">
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=msmahfuz3140&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmahfuz3140&layout=compact&theme=tokyonight" height="180"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=msmahfuz3140&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmahfuz3140&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Activity Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=msmahfuz3140&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=msmahfuz3140&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-- 📌 Book Vibe Project (React + UI System)
-- 📌 Portfolio Website
-- 📌 Dashboard Apps (Admin Panels)
-- 📌 Full Stack Practice Projects
+- 📌 Book Vibe Project — React UI + Dynamic Components  
+- 📌 Portfolio Website — Personal Branding Site  
+- 📌 Dashboard Apps — Admin Panel UI Practice  
+- 📌 MERN Practice Projects — Full Stack Learning  
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact
 
 <div align="center">
 
@@ -81,11 +73,11 @@
 
 ---
 
-## ⚡ Quote
+## ⚡ Developer Mindset
 
 <div align="center">
 
-> “Code is not just syntax, it's creativity and logic combined.”
+> “Build. Break. Learn. Repeat.”
 
 </div>
 
@@ -94,6 +86,6 @@
 <div align="center">
 
 ⭐ Thanks for visiting my profile ⭐  
-🔥 Keep Learning. Keep Building. Keep Growing.
+🔥 Keep building. Keep improving. Keep growing.
 
 </div>
