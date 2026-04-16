@@ -83,9 +83,24 @@
 
 ---
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐  
-🔥 Keep building. Keep improving. Keep growing.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msmahfuz3140&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+---
+
+## 🙏 Thank You
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%26+Keep+Building+🚀;Let's+Grow+Together+🔥" />
+
+</div>
+
+
