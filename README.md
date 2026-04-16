@@ -59,12 +59,12 @@
 
 | Project | Description | Tech Stack | Live | Code |
 |---------|-------------|------------|------|------|
-| 📘 English Janala | API ভিত্তিক Interactive Vocabulary Learning App (Search, Dark Mode, Voice) | HTML, Tailwind, DaisyUI, JavaScript, REST API | [Live](https://kamalcodezen.github.io/english-janala-vocabulary-app/) | [Code](https://github.com/kamalcodezen/english-janala-vocabulary-app) |
-| 💸 Payoo Money Transfer | Modern Banking UI with Transaction Layout | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/payoo-money-transfer-project/) | [Code](https://github.com/kamalcodezen/payoo-money-transfer-project) |
-| 🍵 Tea House Landing Page | Fully Responsive Tailwind CSS Landing Page | HTML, Tailwind CSS | [Live](https://kamalcodezen.github.io/tea-house-tailwind-project/) | [Code](https://github.com/kamalcodezen/tea-house-tailwind-project) |
-| 🎆 Realistic Fireworks | Creative JavaScript Animation Project | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/realistic-fireworks/) | [Code](https://github.com/kamalcodezen/realistic-fireworks) |
-| 🌸 Flower Animation | CSS Based Creative Animation | HTML, CSS | [Live](https://kamalcodezen.github.io/flower-animation-repo/) | [Code](https://github.com/kamalcodezen/flower-animation-repo) |
-| 🧠 Fitness Web UI | Modern Responsive Fitness Website Design | HTML, CSS | [Live](https://kamalcodezen.github.io/fitness-web-repo/) | [Code](https://github.com/kamalcodezen/fitness-web-repo) |
+| 📘 English Janala | API ভিত্তিক Interactive Vocabulary Learning App (Search, Dark Mode, Voice) | HTML, Tailwind, DaisyUI, JavaScript, REST API | [Live](https://msmahfuz3140.github.io/English-Janala-Code/) | [Code](https://github.com/msmahfuz3140/English-Janala-Code) |
+| 💸 Payoo Money Transfer | Modern Banking UI with Transaction Layout | HTML, CSS, JavaScript | [Live](https://msmahfuz3140.github.io/payoo-mobile-bank/) | [Code](https://github.com/msmahfuz3140/payoo-mobile-bank) |
+| 🍵 Book VIbe | Fully Responsive React Project | HTML, Tailwind CSS, daisy ui, react, | [Live](real-book-vibe.netlify.app) | [Code](https://github.com/msmahfuz3140/Book-Vibe-Project) |
+| 🎆 BPL Dream 11 | Creative modard react project | HTML, Tailwind, React, daisy ui | [Live](bpl-dream-11-webp.netlify.app) | [Code](https://github.com/msmahfuz3140/BPL-Dream-11) |
+| 🌸 Digital Tools | React Project | HTML, Tailwind, daisy ui, react| [Live](as-6-digital-tools.netlify.app) | [Code](https://github.com/msmahfuz3140/Assignment-6_DigitalTools) |
+| 🧠 Github Issue Tracker | Modern Responsive Fitness Website Design | HTML, CSS | [Live](github-issue-tracker-as-5.netlify.app) | [Code](https://github.com/msmahfuz3140/As-05-Github-Issue-Tracker) |
 
 </div
 <br/>
@@ -91,8 +91,8 @@
 
 <div align="center">
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
+📧 Email: mdmahfuzulhaque3140@gmail.com
+💼 LinkedIn: www.linkedin.com/in/msmahfuz3140 
 🌐 Portfolio: Coming Soon  
 
 </div>
@@ -111,24 +111,7 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msmahfuz3140&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/msmahfuz3140/msmahfuz3140/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ⭐ Thanks for visiting my profile ⭐  
 🔥 Keep building. Keep improving. Keep growing.
