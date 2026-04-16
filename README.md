@@ -95,7 +95,14 @@
 
 ---
 
-## 🙏 Thank You
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile ⭐  
+🔥 Keep building. Keep improving. Keep growing.
+
+</div>
 
 <div align="center">
 
