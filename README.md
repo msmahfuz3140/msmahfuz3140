@@ -52,12 +52,22 @@
 
 ---
 
-## 🚀 Projects
+---
 
-- 📌 Book Vibe Project — React UI + Dynamic Components  
-- 📌 Portfolio Website — Personal Branding Site  
-- 📌 Dashboard Apps — Admin Panel UI Practice  
-- 📌 MERN Practice Projects — Full Stack Learning  
+## 💡 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Live | Code |
+|--------|-------------|-------------|------|------|
+| 📘 English Janala | API-based Interactive Vocabulary Learning App (Search, Dark Mode, Voice) | HTML, Tailwind, DaisyUI, JavaScript, REST API | 🔗 Live | 💻 Code |
+| 💸 Payoo Money Transfer | Modern Banking UI with Transaction Layout | HTML, CSS, JavaScript | 🔗 Live | 💻 Code |
+| 🍵 Tea House Landing Page | Fully Responsive Tailwind CSS Landing Page | HTML, Tailwind CSS | 🔗 Live | 💻 Code |
+| 🎆 Realistic Fireworks | Creative JavaScript Animation Project | HTML, CSS, JavaScript | 🔗 Live | 💻 Code |
+| 🌸 Flower Animation | CSS Based Creative Animation | HTML, CSS | 🔗 Live | 💻 Code |
+| 🧠 Fitness Web UI | Modern Responsive Fitness Website Design | HTML, CSS | 🔗 Live | 💻 Code |
+
+</div>
 
 ---
 
