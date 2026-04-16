@@ -1,7 +1,9 @@
 <div align="center">
 
-# Hi, I'm MD MAHFUZUL HAQUE 👋  
-### MERN Stack Developer | React & Next.js Developer
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+MAHFUZUL+HAQUE;Frontend+Developer;" />
+</h1>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;MERN+Stack+Learner;Clean+Code+Advocate" />
 
